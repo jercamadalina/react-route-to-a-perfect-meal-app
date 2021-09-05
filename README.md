@@ -29,10 +29,6 @@ She spent a lifetime collecting incredible and unique meals and she asks you to 
 3. The home page has a carousel (React Responsive Carousel from https://www.npmjs.com/package/react-responsive-carousel)
     - The `Home` page has a carousel which displays the image of the 3 recipes
 
-## General requirements
-
-None
-
 ## Hints
 
 - once you start the project you first need to install the react library with `npm install`
